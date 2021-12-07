@@ -1,20 +1,29 @@
 body {
+    background-image: url(/assets/img\ folder/spookyhall.jpg);
+    background-size: cover;
     background-color: black;
 }
 
 nav {
-    background-color: black;
+    font-size: xx-large;
+    width: 10%;
+    margin-top: 25%;
 }
 
 a {
     color: white;
     display: block;
-    width: 15%;
     font-family: 'Amatic SC', cursive;
     height: 30px
+    
 }
 
-a:hover{
+a:hover {
     color: red;
     font-family: 'Creepster', cursive;
+}
+
+a:link {
+    text-decoration: none;
+    margin-bottom: 40px;
 }
