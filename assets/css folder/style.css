@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    margin-top: 400px;
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: larger;
+}
+
+.creepy {
+    font-family: 'Creepster', cursive;
+    color: rgb(0, 250, 0);
+    font-size: xx-large;
+    text-align: right;
+}
