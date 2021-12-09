@@ -1,20 +1,21 @@
 body {
-    background-image: url(/assets/img\ folder/spookyhall.jpg);
+    background-image: url(/assets/img\ folder/conor-samuel-T8p7Ak4HjF4-unsplash.jpg);
     background-size: cover;
     background-color: black;
 }
 
 nav {
-    font-size: xx-large;
+    font-size: 400%;
     width: 10%;
-    margin-top: 25%;
+    position: fixed;
 }
 
 a {
     color: white;
     display: block;
     font-family: 'Amatic SC', cursive;
-    height: 30px
+    height: 30px;
+    padding-top: 10px;
     
 }
 
@@ -28,4 +29,10 @@ a:hover {
 a:link {
     text-decoration: none;
     margin-bottom: 40px;
+}
+
+.circusaudio {
+    float: right;
+    margin-top: 90%;
+    opacity: 75%;
 }
