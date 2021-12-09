@@ -21,6 +21,8 @@ a {
 a:hover {
     color: red;
     font-family: 'Creepster', cursive;
+    background-image: url(/assets/img\ folder/bloodsplatter.png);
+    background-size: cover;
 }
 
 a:link {
